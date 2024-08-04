@@ -1,0 +1,31 @@
+.raw_logo {
+  height: 305;
+  width: 440;
+}
+.raw_logo > * {
+  opacity: 0;
+}
+.line1 {
+  animation: opan forwards 3500ms;
+}
+.line2 {
+  animation: opan forwards 3500ms 500ms;
+}
+.R {
+  animation: opan forwards 500ms 2000ms;
+}
+.S {
+  animation: opan forwards 1000ms 2000ms;
+}
+.sign {
+  animation: opan forwards 1000ms 1000ms;
+}
+
+@keyframes opan {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

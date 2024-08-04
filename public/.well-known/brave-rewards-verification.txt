@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: grayhat12.netlify.app
+Token: ed4860b235a5a4b9fa0a8420b9718279981c82e804194951e90a0629517d7e78
