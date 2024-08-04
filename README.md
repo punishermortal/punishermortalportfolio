@@ -163,6 +163,7 @@ Therefore, this part of portfolio is not customizable. But don't worry we have a
 - That's it. You just need to change the theme name and the code will take care of everything else
 - Run `npm start` to check if everything is ok.
 
+
 # Deployment 📦
 
 - Once you are done with your setup and have successfully completed all steps above, you need to put your website online!

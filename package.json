@@ -40,6 +40,7 @@
     "styletron-react": "^5.2.7"
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@iconify/icons-logos": "^1.0.9",
     "@iconify/react": "^1.1.1",
     "babel-cli": "^6.26.0",
